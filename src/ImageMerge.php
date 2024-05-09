@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleSoftwareIO\QrCode;
+namespace HopekellDev\QrCode;
 
 use InvalidArgumentException;
 
